@@ -4,9 +4,7 @@
 
 I'm a Frontend Developer from Delhi, India, with a strong foundation in JavaScript, TypeScript, and React.
 
-I enjoy building responsive, user-friendly web applications and continuously improving my skills through hands-on projects.
-
-Currently, I'm working towards my first Software Engineering role while expanding my knowledge of full-stack development.
+I enjoy turning ideas into clean, responsive, and user-friendly web applications. I'm currently preparing for my first Software Engineering opportunity while strengthening my frontend and full-stack development skills through real-world projects.
 
 ---
 
@@ -88,3 +86,12 @@ Email: himanshu.kumar.2301@gmail.com
 LinkedIn: https://linkedin.com/in/himanshu-kumar-2b7993167
 
 GitHub: https://github.com/Himanshu-Kumar-2301
+
+---
+
+## 🎯 2026 Goals
+
+- Build a production-ready full-stack application
+- strengthen Data Structures & Algorithms
+- Contribute to open source
+- Land my first Software Engineering role
